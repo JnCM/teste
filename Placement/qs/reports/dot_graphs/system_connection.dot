@@ -1,0 +1,9 @@
+digraph {
+Node0x600656f30[label="main_inst", shape="box"];
+Node0x600654150[label="top_inst_inst", shape="box"];
+Node0x600654150 -> Node0x600656f30;
+Node0x60064f370[label="memory_controller_0_inst", style=filled, color="lightblue"];
+Node0x600656f30 -> Node0x60064f370;
+Node0x60064f530[label="memory_controller_1_inst", style=filled, color="lightblue"];
+Node0x600656f30 -> Node0x60064f530;
+}

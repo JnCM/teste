@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/LegUp-7.5/Placement/qs/simulation
+vmain
+Z1 !s110 1588966831
+!i10b 1
+!s100 PC[dAdQNnc>HaJl<iDf:k0
+I:<RLU296@k1<F6A[7Y:=P1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1588966789
+Z4 8../qs.v
+Z5 F../qs.v
+L0 916
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1588966831.000000
+Z8 !s107 ../qs.v|
+Z9 !s90 ../qs.v|
+!s101 -O0
+!i113 1
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmain_tb
+R1
+!i10b 1
+!s100 =BW2_BNjBHO3S=5dlXNec3
+If>Pe><NizHbA:k_:i6=e<1
+R2
+R0
+R3
+R4
+R5
+L0 9712
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vmemory_controller_0
+R1
+!i10b 1
+!s100 jSEbKz30P`1i>kFjhI1Dn0
+I2NE6TWB]kb2L1BM`FjGSe1
+R2
+R0
+R3
+R4
+R5
+L0 299
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vmemory_controller_1
+R1
+!i10b 1
+!s100 akb_E05YJ1KbNHHk30_[J0
+I;dPKHknZ?kk7=7mLcUK613
+R2
+R0
+R3
+R4
+R5
+L0 633
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vram_dual_port
+R1
+!i10b 1
+!s100 _JdM:7`EjHXKo?lU]dofa2
+I<Xg[lNF_Q5NGJooGNQ_@60
+R2
+R0
+R3
+R4
+R5
+L0 9486
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vrom_dual_port
+R1
+!i10b 1
+!s100 ZoDg79S04eK?<`fe<z:on1
+IRNNze<J?d^7:2<WaJ^6?13
+R2
+R0
+R3
+R4
+R5
+L0 9589
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtop
+R1
+!i10b 1
+!s100 V_b@mSfh]:TegUS8RGjM00
+I2zVg]CGHB>Ve?8DD[_E]A3
+R2
+R0
+R3
+R4
+R5
+L0 38
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10

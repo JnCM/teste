@@ -1,0 +1,119 @@
+16:02:04 **** Incremental Build of configuration LegUp for project mib ****
+bash "C:\\LegUp-7.5\\legup\\bin\\legup" sim "LEGUP_TOOL_PATH=C:\\Modeltech_pe_edu_10.4a\\win32pe_edu" 
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:02:09 on May 08,2020
+vlog ../mib.v 
+-- Compiling module top
+-- Compiling module memory_controller_0
+-- Compiling module memory_controller_1
+-- Compiling module main
+-- Compiling module ram_dual_port
+-- Compiling module rom_dual_port
+-- Compiling module main_tb
+
+Top level modules:
+	main_tb
+End time: 16:02:12 on May 08,2020, Elapsed time: 0:00:03
+Errors: 0, Warnings: 0
+Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+
+# 10.4a
+
+# source sim_library.tcl
+# Model Technology ModelSim PE vmap 10.4a Lib Mapping Utility 2015.03 Apr  7 2015
+# vmap -modelsim_quiet legup_fp C:\LegUp-7.5\legup/ip/libs/legup_fp/legup_fp 
+# Modifying modelsim.ini
+#  exit
+Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+
+# 10.4a
+
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim "+nowarn8607" -suppress 8607 -suppress 2249 -suppress 2685 -suppress 2718 -suppress 3017 -suppress 3722 -c -do "set StdArithNoWarnings 1; run 1000000000000000ns; exit;" work.main_tb -L altera_ver -L lpm_ver -L sgate_ver -L altera_lnsim_ver -L altera_mf_ver -L altera_mf -L altera_lnsim -L altfp -L legup_fp -L twentynm -L generic 
+# Start time: 16:02:18 on May 08,2020
+# Loading work.main_tb
+# Loading work.top
+# Loading work.main
+# Loading lpm_ver.lpm_divide
+# Loading lpm_ver.LPM_HINT_EVALUATION
+# Loading work.ram_dual_port
+# Loading altera_mf_ver.altsyncram
+# Loading work.memory_controller_1
+# Loading work.rom_dual_port
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# Loading work.memory_controller_0
+# Loading altera_mf_ver.altera_syncram_derived
+# set StdArithNoWarnings 1
+# 1
+#  run 1000000000000000ns
+# Warning : Address pointed at port A is out of bound!
+# Time: 47050000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 47050000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 54770000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 54770000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 58490000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 58490000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 62490000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 62490000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 73930000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 73930000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 98730000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 98730000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 101530000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 101530000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 105250000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 105250000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 108970000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+# Warning : Address pointed at port A is out of bound!
+# Time: 108970000  Instance: main_tb.top_inst.main_inst.main_entry_vla4519.altsyncram_component.m_arria10.altera_syncram_inst
+#  -1  -1  10  17  16  24 
+#  -1  -1   4  22  21  25 
+#   8  14  19  11  23  26 
+#  -1  12   2  18  20  15 
+#  -1   6   7   0  13   3 
+#  -1  -1  -1   1   5   9 
+# 
+# Evaluation =          24
+# Evaluation 1-hop =          14
+# At t=           165050000 clk=1 finish=1 return_val=         1
+# Cycles:                 8250
+# ** Note: $finish    : ../mib.v(8112)
+#    Time: 165050 ns  Iteration: 1  Instance: /main_tb
+# End time: 16:02:29 on May 08,2020, Elapsed time: 0:00:11
+# Errors: 0, Warnings: 0
+
+16:02:31 Build Finished (took 27s.592ms)
+

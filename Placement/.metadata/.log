@@ -1,0 +1,102 @@
+!SESSION 2020-05-03 10:07:13.446 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-03 10:08:37.394
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-03 10:08:37.394
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:10:04.738
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:10:06.145
+!MESSAGE Indexed 'cheb' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:10:47.048
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:10:48.642
+!MESSAGE Indexed 'mib' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:11:21.718
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:11:23.702
+!MESSAGE Indexed 'p5' (1 sources, 0 headers) in 0,094 sec: 58 declarations; 785 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:11:54.692
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:11:56.769
+!MESSAGE Indexed 'p6' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:12:30.095
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:12:31.158
+!MESSAGE Indexed 'p8' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:13:04.905
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:13:05.796
+!MESSAGE Indexed 'qs' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-03 10:13:36.716
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-03 10:13:38.684
+!MESSAGE Indexed 'sg' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2020-05-03 20:31:30.744 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-03 20:32:47.678
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-03 20:32:47.678
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+!SESSION 2020-05-05 08:17:27.730 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-05 08:17:54.869
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-05 08:17:54.869
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+!SESSION 2020-05-05 16:20:09.243 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-05 16:30:07.705
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-05 16:30:07.705
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+!SESSION 2020-05-08 15:44:25.165 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-08 15:48:00.640
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-08 15:48:00.640
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
