@@ -1,0 +1,78 @@
+!SESSION 2020-05-08 10:56:33.164 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-08 11:00:03.225
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-08 11:00:03.225
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+!SESSION 2020-05-08 11:22:49.097 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-08 11:22:59.791
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-08 11:22:59.791
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:24:08.099
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:24:09.614
+!MESSAGE Indexed 'RoutCheb' (0 sources, 0 headers) in 0,016 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:24:46.146
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:24:49.053
+!MESSAGE Indexed 'RoutMib' (1 sources, 0 headers) in 0,141 sec: 41 declarations; 370 references; 2 unresolved inclusions; 0 syntax errors; 2 unresolved names (0,48%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:25:19.465
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:25:20.871
+!MESSAGE Indexed 'RoutP5' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:25:50.325
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:25:51.714
+!MESSAGE Indexed 'RoutP6' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:26:23.090
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:26:26.049
+!MESSAGE Indexed 'RoutP8' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:26:53.906
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:26:54.393
+!MESSAGE Indexed 'RoutQs' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2020-05-08 11:27:21.795
+!MESSAGE required build system is not installed
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-08 11:27:22.166
+!MESSAGE Indexed 'RoutSg' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2020-05-08 21:32:55.973 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY org.eclipse.ui 2 0 2020-05-08 21:37:43.197
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-05-08 21:37:43.197
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.legup.hls.ui.commands', id='com.legup.hls.command.LegUpCommands'
